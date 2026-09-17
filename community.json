@@ -1,0 +1,19 @@
+{
+  "updated_at": "demo",
+  "entries": [
+    {
+      "chapter": "ch1",
+      "nickname": "CellExplorer",
+      "score": 96,
+      "rating": 5,
+      "comment": "很像在做真正的实验决策。"
+    },
+    {
+      "chapter": "ch1",
+      "nickname": "BioLearner",
+      "score": 92,
+      "rating": 5,
+      "comment": "多模态冲突那段最有意思。"
+    }
+  ]
+}
